@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Claude Code local settings: saved "Don't ask again" rules can contain keys and passwords
+**/.claude/settings.local.json
+CLAUDE.local.md
